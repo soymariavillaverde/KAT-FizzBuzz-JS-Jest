@@ -14,12 +14,24 @@ Kata FizzBuzz con javascript y cobertura de test con jest
 
 ## Installation
 
->> npm install
+```
+$ npm install
+```
 
 
 ## Run tests
 
->> npx jest
+```
+$ npx jest
+or
+$ npm run test
+```
+You can filter test with ...
+```
+$ npx jest -t '<test-name>'
+or
+$ npm run filter '<test-name>'
+```
 
 ### Problem Description
 
